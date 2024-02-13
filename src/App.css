@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: blue;
+}
+
+#test{
+  background-color: brown;
+}
+
+.script{
+  font-family: 'Dancing Script', cursive;
+}
+
+.font2{
+  font-family: 'Comfortaa', sans-serif;
+}
+
+#container{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b4e391+0,61c419+50,b4e391+100;Green+3D */
+background: linear-gradient(to bottom,  rgb(180,227,145) 0%,rgb(97,196,25) 50%,rgb(180,227,145) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+
+}
