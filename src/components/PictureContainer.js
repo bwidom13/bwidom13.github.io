@@ -7,8 +7,9 @@ export default function PictureContainer() {
             <div className='d-flex flex-column w-100 justify-content-center align-items-center m-2' >                
                 <img className="img-fluid " src={imgURL} style={{width:"12rem", height:"14rem", borderRadius:"20px"}} alt="Profile Picture"/>
                 <div className='text-center mt-3 script' style={{fontSize:"30px"}}>Brian Widom</div>
-                <div className='text-center mt-1 fst-italic' style={{fontSize:"14px"}}>bwidom13@gmail.com</div>
-                <div className='text-center mt-1 fst-italic' style={{fontSize:"14px"}}>Github: <a href="https://github.com/bwidom13">https://github.com/bwidom13</a></div>
+                <div className='text-center mt-1 fst-italic' style={{fontSize:"14px"}}>brianwidom@gmail.com</div>
+                <div className='text-center mt-1 fst-italic' style={{fontSize:"14px"}}>(201) 839-6082</div>
+                <div className='text-center mt-1 fst-italic' style={{fontSize:"14px"}}><a href="https://github.com/bwidom13">https://github.com/bwidom13</a></div>
             </div>
             <div className='ms-auto'>
 
